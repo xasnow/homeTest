@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-core-4.3.10.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../home-example/src/main/resources/hibernate-core-4.3.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

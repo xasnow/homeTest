@@ -1,0 +1,20 @@
+
+\
+java:S1075%"ARefactor your code to get this URI from a customizable parameter.(ççÒëüÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(Ç«üÈ
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(„Ä½µ
+>	java:S108j")Either remove or fill this block of code.(ŸäÁ‚
+>	java:S108p")Either remove or fill this block of code.(ŸäÁ‚
+E
+java:S2093K"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+U	java:S899v";Do something with the "boolean" value returned by "delete".(Ì­„ñüÿÿÿÿ
+i
+java:S4042v"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ì­„ñüÿÿÿÿ
+R	java:S899w"=Do something with the "boolean" value returned by "renameTo".(­Ø…
+<
+java:S1481w"&Remove this unused "b" local variable.(­Ø…
+E
+java:S1128"/Remove this unused import 'sun.nio.cs.ext.GBK'.(Ş¡ˆË
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ş¡ˆË

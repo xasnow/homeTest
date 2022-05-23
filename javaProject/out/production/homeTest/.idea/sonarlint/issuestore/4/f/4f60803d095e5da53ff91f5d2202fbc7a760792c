@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(š¡Œ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "orange" 3 times.(Ïïæ†úÿÿÿÿ
+a
+java:S1192"FDefine a constant instead of duplicating this literal "peach" 4 times.(àîà¹ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¸åÒÿÿÿÿÿ
