@@ -13,9 +13,17 @@ import org.springframework.test.context.junit4.SpringRunner;
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
 class DemoApplicationTests {
 
+    private String url =  "http://192.9.180.37:8761/eureka/apps";
     @Test
     void contextLoads() {
-        EurekaUtil.getAllServiceAddr();
+        EurekaUtil.getAllServiceAddr(url);
+    }
+
+
+
+    @Test
+    void getAppAndAddress() {
+        EurekaUtil.getAppAndAddress(url);
     }
 
 }
